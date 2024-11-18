@@ -29,7 +29,9 @@ This is a personal portfolio website where I showcase some of my most notable co
 
 You can view the live version of this portfolio by visiting the following link:
 
-[Live Portfolio](https://github.com/mmoreno723)
+[Live Portfolio](https://mmoreno723.github.io/CS_601_Portfolio/)
+
+Optionally, you can also clone the repository to your local machine.
 
 ## Projects
 
